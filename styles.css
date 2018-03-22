@@ -15,10 +15,10 @@ img {
 .Banner_Image{
 	width: 100%;
 	height: 25%;
-	background-color: black;
+	
 }
 html {
-	background-color: red;
+	background-color: gray;
 }
 header h1 {
 	text-align: center;
@@ -43,4 +43,8 @@ p.overview {
 ol {
 	text-align: left;
 	font-size: 1.5em;
+}
+p.best_songs {
+	font-family: Arial;
+	background-color: blue;
 }
